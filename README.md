@@ -8,4 +8,4 @@ The main implementation approach is based on the inequality,
 The area the positive quadrant of the circle is estimated through random number generation (rng). The estimated area is then multipled by 4 to obtain an estimate of the value <a href="https://www.codecogs.com/eqnedit.php?latex=$\pi$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\pi$" title="$\pi$" /></a>.
 
 Console output:
-(https://github.com/QuantStats/RNGEstimatePi/blob/master/rng_pi_estimate.PNG)
+![Console](https://github.com/QuantStats/RNGEstimatePi/blob/master/rng_pi_estimate.PNG)
